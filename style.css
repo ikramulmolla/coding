@@ -72,6 +72,9 @@
     letter-spacing: 5px;
 
 }
+.icons:hover{
+    background-color:blue;
+}
 main{
     width:80% !important;
     margin: auto !important;
